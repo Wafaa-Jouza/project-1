@@ -62,7 +62,7 @@ h1 {
   #pink {
     color: pink;
     float: right;
-    
+    margin-top: 5px;
   }
   
   
@@ -84,4 +84,5 @@ h1 {
   #blue {
     color:  rgb(7, 180, 248);
     float: right;
+    margin-top: 5px;
   }
